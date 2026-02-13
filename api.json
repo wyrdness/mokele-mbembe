@@ -1,10 +1,8 @@
 {
-  "category": "CRYPTID",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/mokele-mbembe",
     "maintainers": [
       {
@@ -18,510 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "mokele-mbembe",
     "name": "Mokele-mbembe",
-    "aliases": [
-      {
-        "name": "One who stops the flow of rivers",
-        "language": "Lingala",
-        "region": "Congo Basin",
-        "meaning": "Translation of Mokele-mbembe"
-      }
-    ],
+    "aliases": [],
     "category": "CRYPTID",
-    "subcategory": "Dinosaur",
+    "subcategory": "Sauropod-like",
     "tags": [
-      "dinosaur",
-      "sauropod",
-      "aquatic",
-      "africa",
-      "congo-basin",
-      "lake-tele",
-      "semi-aquatic",
-      "cryptid"
+      "folklore",
+      "mythology"
     ],
-    "status": "disputed",
+    "status": "documented",
     "description": {
-      "summary": "An alleged living dinosaur from the Congo Basin, described as sauropod-like with a long neck and elephant-sized body. The name means 'one who stops the flow of rivers' in the Lingala language.",
-      "full": "Mokele-mbembe is a legendary creature reported to inhabit the Congo River Basin, particularly the Lake Télé region of the Republic of Congo and Cameroon. Described as resembling a sauropod dinosaur with a long neck, small head, and elephant-sized semi-aquatic body, it has been the subject of numerous expeditions since the 1980s. The name means 'one who stops the flow of rivers' in the Lingala language. Local traditions among Likouala region tribes include reports of encounters with the creature. Multiple expeditions have been mounted by researchers including Roy Mackal (1980s) and William Gibbons, though none have produced conclusive evidence. Theories range from surviving sauropod dinosaurs to misidentified known animals such as swimming elephants or rhinoceroses, to pure folklore or hoaxes. The scientific consensus is that no credible evidence exists and surviving dinosaurs are extremely unlikely given the lack of supporting ecosystem and fossil record."
+      "summary": "Mokele-mbembe is a legendary creature reported to inhabit the Congo River Basin, particularly the Lake Télé region of the Republic of Congo and Cameroon.",
+      "full": "Mokele-mbembe is a legendary creature reported to inhabit the Congo River Basin, particularly the Lake Télé region of the Republic of Congo and Cameroon. Described as resembling a sauropod dinosaur with a long neck, small head, and elephant-sized semi-aquatic body, it has been the subject of numerous expeditions since the 1980s. The name means \\\"one who stops the flow of rivers\\\" in the Lingala language. Local traditions among Likouala region tribes include reports of encounters with the creature, though interpretations vary and may refer to known animals. Multiple expeditions have been mounted by researchers including Roy Mackal (1980s) and William Gibbons, though none have produced conclusive evidence. Theories range from surviving sauropod dinosaurs to misidentified known animals such as swimming elephants or rhinoceroses, to pure folklore or hoaxes. The scientific consensus is that no credible evidence exists and surviving dinosaurs are extremely unlikely given the lack of supporting ecosystem and fossil record."
     },
     "etymology": {
-      "origin": "From Lingala language spoken in the Congo Basin region",
-      "meaning": "One who stops the flow of rivers",
-      "first_use": "Local tribal traditions; Western documentation from early 1900s"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "CRYPTID",
-      "type": "Dinosaur",
-      "subtype": "Sauropod-like",
-      "variant": "African"
+      "type": "Sauropod-like",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "loch-ness-monster",
-        "name": "Loch Ness Monster",
-        "relationship": "similar",
-        "description": "Also described with sauropod-like features"
-      },
-      {
-        "id": "bunyip",
-        "name": "Bunyip",
-        "relationship": "similar",
-        "description": "Australian aquatic cryptid"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "height": {
-        "min": 2.0,
-        "max": 3.0,
-        "unit": "meters",
-        "confidence": "very low"
-      },
-      "weight": {
-        "min": 3000,
-        "max": 6000,
-        "unit": "kilograms",
-        "confidence": "very low"
-      },
-      "coloration": [
-        "brownish-gray",
-        "gray",
-        "reddish-brown"
-      ],
-      "features": [
-        {
-          "feature": "Long neck",
-          "description": "Elongated neck similar to sauropod dinosaurs",
-          "frequency": "always"
-        },
-        {
-          "feature": "Small head",
-          "description": "Small head proportional to body, atop long neck",
-          "frequency": "always"
-        },
-        {
-          "feature": "Large body",
-          "description": "Elephant-sized body, barrel-shaped",
-          "frequency": "always"
-        },
-        {
-          "feature": "Tail",
-          "description": "Long, muscular tail",
-          "frequency": "common"
-        },
-        {
-          "feature": "Skin",
-          "description": "Smooth or slightly rough skin, reptilian",
-          "frequency": "common"
-        },
-        {
-          "feature": "Legs",
-          "description": "Four stout legs",
-          "frequency": "always"
-        }
-      ],
-      "morphology": "Described as resembling a sauropod dinosaur with long neck, small head, elephant-sized body, and long tail. Semi-aquatic lifestyle reported."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Swimming",
-        "description": "Semi-aquatic, spends time in rivers and lakes",
-        "frequency": "common",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Herbivory",
-        "description": "Feeds on vegetation, particularly a certain plant local tribes identify",
-        "frequency": "reported",
-        "evidence_level": "traditional"
-      },
-      {
-        "ability": "Territorial behavior",
-        "description": "Reportedly attacks canoes and defends territory",
-        "frequency": "occasional",
-        "evidence_level": "reported"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "diurnal",
-      "disposition": "neutral to defensive",
-      "social_structure": "solitary",
-      "habitat_preference": [
-        "rivers",
-        "lakes",
-        "swamps",
-        "dense rainforest waterways"
-      ],
-      "diet": "Herbivorous (reported)",
-      "patterns": [
-        "Semi-aquatic lifestyle",
-        "Feeds on riverine vegetation",
-        "Territorial of river areas",
-        "Avoids human contact"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Reported in the Congo River Basin, particularly the Likouala region around Lake Télé in the Republic of Congo, and parts of Cameroon. Dense rainforest and swamp habitat.",
-      "continents": ["Africa"],
-      "countries": ["Republic of Congo", "Cameroon", "Democratic Republic of Congo"],
-      "regions": [
-        "Likouala region",
-        "Lake Télé",
-        "Congo Basin",
-        "Sangha River"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "hotspots": [
-      {
-        "name": "Lake Télé",
-        "location": {
-          "description": "Lake Télé and surrounding swamps",
-          "country": "Republic of Congo",
-          "region": "Likouala",
-          "coordinates": {
-            "latitude": 1.4167,
-            "longitude": 17.6000
-          }
-        },
-        "sighting_count": 30,
-        "peak_period": "1980s-2000s",
-        "notes": "Primary focus of expeditions; local traditions strong"
-      },
-      {
-        "name": "Likouala swamps",
-        "location": {
-          "description": "Likouala swamp region",
-          "country": "Republic of Congo",
-          "region": "Likouala",
-          "coordinates": {
-            "latitude": 1.5000,
-            "longitude": 17.5000,
-            "precision": "approximate"
-          }
-        },
-        "sighting_count": 20,
-        "peak_period": "1900s-present",
-        "notes": "Remote swampland, difficult access"
-      }
-    ],
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Pre-colonial",
+        "date": "Unknown",
         "circa": true,
-        "source": "Local tribal traditions in Congo Basin"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "1980s-1990s",
-          "description": "Multiple expeditions by Roy Mackal and others"
-        },
-        {
-          "period": "2000s",
-          "description": "Continued expeditions by William Gibbons and cryptozoologists"
-        }
-      ],
-      "seasonal_patterns": "Reports year-round; swamp conditions affect accessibility"
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Local tribes of the Likouala region in the Congo Basin have traditional knowledge of a large water-dwelling creature. Different tribes have different names and descriptions.",
-      "earliest_accounts": "Tribal oral traditions dating back centuries. First European documentation in early 1900s from colonial explorers.",
-      "folklore_connections": "Part of local tribal knowledge and cautionary tales about dangerous river creatures."
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "Pre-colonial",
-        "event": "Local tribal traditions",
-        "significance": "Likouala region tribes maintain oral traditions of river creature",
-        "source": "Indigenous oral histories"
-      },
-      {
-        "date": "Early 1900s",
-        "event": "European colonial reports",
-        "significance": "First European documentation of creature reports",
-        "source": "Colonial expedition records"
-      },
-      {
-        "date": "1980s",
-        "event": "Roy Mackal expeditions",
-        "significance": "University of Chicago biologist leads multiple scientific expeditions to Lake Télé",
-        "source": "Mackal expedition reports"
-      },
-      {
-        "date": "1992",
-        "event": "Japanese expedition",
-        "significance": "Japanese team films alleged creature in Lake Télé (disputed)",
-        "source": "Expedition documentation"
-      },
-      {
-        "date": "2000s",
-        "event": "William Gibbons expeditions",
-        "significance": "Continued expeditions and investigations",
-        "source": "Expedition reports"
-      }
-    ],
-    "modern_era": "Mokele-mbembe remains a popular subject in cryptozoology despite lack of conclusive evidence. Expeditions continue sporadically, though scientific consensus holds that surviving sauropods are extremely unlikely."
+    "timeline": []
   },
-
   "sightings": {
     "statistics": {
-      "total_documented": 100,
+      "total_documented": 0,
       "verified": 0,
-      "disputed": 95,
-      "debunked": 5,
-      "date_range": {
-        "earliest": "Pre-colonial",
-        "latest": "2010s"
-      }
+      "disputed": 0,
+      "debunked": 0
     },
-    "notable": [
-      {
-        "id": "mokele-mbembe-1980s-mackal",
-        "name": "Roy Mackal expeditions",
-        "date": {
-          "value": "1980-1988",
-          "precision": "range"
-        },
-        "location": {
-          "description": "Lake Télé region",
-          "country": "Republic of Congo",
-          "region": "Likouala",
-          "coordinates": {
-            "latitude": 1.4167,
-            "longitude": 17.6000,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 10,
-          "types": ["Scientists", "Local guides"],
-          "credibility_factors": ["Professional researchers", "Scientific methodology"]
-        },
-        "description": "University of Chicago biologist Roy Mackal led multiple expeditions to the Lake Télé region in the 1980s, interviewing local witnesses and searching for physical evidence. While no conclusive evidence was found, Mackal collected numerous eyewitness accounts from local tribes describing a large semi-aquatic creature.",
-        "conditions": {
-          "weather": "Tropical",
-          "visibility": "Variable",
-          "time_of_day": "Variable",
-          "duration": "Multiple expeditions over years"
-        },
-        "evidence": [
-          "Eyewitness testimony from local tribes",
-          "Expedition documentation",
-          "No physical evidence obtained"
-        ],
-        "credibility": {
-          "rating": "low",
-          "factors": [
-            "Professional scientific approach",
-            "No physical evidence collected",
-            "Eyewitness accounts difficult to verify",
-            "Consistent with known animal misidentification"
-          ],
-          "notes": "Most serious scientific attempt to investigate Mokele-mbembe; lack of evidence considered significant by scientific community"
-        },
-        "sources": [
-          "Mackal, R.P. (1987). A Living Dinosaur? In Search of Mokele-Mbembe"
-        ],
-        "featured": true
-      },
-      {
-        "id": "mokele-mbembe-1992-japanese",
-        "name": "Japanese expedition footage",
-        "date": {
-          "value": "1992",
-          "precision": "year"
-        },
-        "location": {
-          "description": "Lake Télé",
-          "country": "Republic of Congo",
-          "region": "Likouala",
-          "coordinates": {
-            "latitude": 1.4167,
-            "longitude": 17.6000,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 5,
-          "types": ["Japanese expedition team"],
-          "credibility_factors": ["Video documentation"]
-        },
-        "description": "Japanese expedition team claimed to have filmed a large creature moving through Lake Télé. Footage is poor quality and highly disputed, with most analysts concluding it shows known animals or water disturbance.",
-        "conditions": {
-          "weather": "Clear",
-          "visibility": "Poor (distant, grainy footage)",
-          "time_of_day": "Day",
-          "duration": "Brief"
-        },
-        "evidence": [
-          "Video footage (disputed quality and content)"
-        ],
-        "credibility": {
-          "rating": "very low",
-          "factors": [
-            "Extremely poor video quality",
-            "No clear identification possible",
-            "Consistent with known animals or water effects",
-            "Not accepted by scientific community"
-          ],
-          "notes": "Most cryptozoologists and scientists consider footage inconclusive at best"
-        },
-        "sources": [
-          "Japanese expedition documentation"
-        ],
-        "featured": false
-      }
-    ],
+    "notable": [],
     "database_path": "./sightings/"
   },
-
   "evidence": {
     "physical": [],
     "photographic": [],
-    "video": [
-      {
-        "id": "mokele-mbembe-evidence-japanese-1992",
-        "type": "video",
-        "name": "Japanese expedition footage",
-        "date": "1992",
-        "description": "Grainy footage claimed to show creature in Lake Télé",
-        "status": "disputed",
-        "analysis": "Poor quality; most analysts conclude it shows known animals or water disturbance",
-        "source": "Japanese expedition team"
-      }
-    ],
+    "video": [],
     "audio": [],
     "trace": []
   },
-
   "theories": {
     "paranormal": [],
-    "scientific": [
-      {
-        "name": "Surviving sauropod",
-        "description": "Mokele-mbembe is a relict population of sauropod dinosaurs that survived in isolated Congo Basin",
-        "proponents": ["Roy Mackal", "Some cryptozoologists"],
-        "evidence_cited": ["Eyewitness descriptions match sauropod morphology", "Remote habitat could theoretically support population"]
-      }
-    ],
-    "skeptical": [
-      {
-        "name": "Misidentified elephants",
-        "description": "Sightings are swimming elephants, which can appear to have long necks when trunk is extended above water",
-        "proponents": ["Zoologists", "Skeptical investigators"],
-        "evidence_cited": ["Elephants common in region", "Swimming behavior matches descriptions", "No physical evidence of dinosaurs"]
-      },
-      {
-        "name": "Misidentified rhinoceroses",
-        "description": "Rare forest rhinoceroses in waterways could be misinterpreted as unknown creatures",
-        "proponents": ["Wildlife biologists"],
-        "evidence_cited": ["Rhinos inhabit region", "Semi-aquatic behavior", "Size consistent"]
-      },
-      {
-        "name": "Folklore and hoax",
-        "description": "Combination of local folklore and hoaxes perpetuated by Western cryptozoologists",
-        "proponents": ["Skeptics", "Scientific consensus"],
-        "evidence_cited": ["No credible physical evidence despite numerous expeditions", "Extinct dinosaurs extremely unlikely", "Lack of supporting ecosystem", "No fossil evidence of surviving lineage"]
-      }
-    ]
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Likouala region tribal traditions",
-        "Local knowledge of dangerous river creatures"
-      ],
-      "stories": [
-        "Tales of large creature that stops river flow",
-        "Cautionary stories about waterways"
-      ],
-      "beliefs": "Local tribes have traditional knowledge of various river creatures, though interpretations vary and may refer to known animals."
-    },
-    "indigenous": {
-      "cultures": [
-        "Various tribes of Likouala region",
-        "Congo Basin communities"
-      ],
-      "significance": "Part of local traditional knowledge, though significance varies by community. Some tribes identify the creature as known animals, others maintain distinct traditions.",
-      "sensitivity_note": "Respect local tribal knowledge while recognizing that Western cryptozoological interpretations may not align with indigenous understanding.",
-      "respect_guidelines": "Consult with local communities and respect their interpretations of traditional knowledge."
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Mackal, R.P. (1987). A Living Dinosaur? In Search of Mokele-Mbembe",
-        "Gibbons, W. (2010). Mokele-Mbembe: Mystery Beast of the Congo Basin",
-        "Various cryptozoology books"
-      ],
-      "film_tv": [
-        "Documentary features on cryptozoology",
-        "Discovery Channel and Animal Planet specials"
-      ],
+      "literature": [],
+      "film_tv": [],
       "games": [],
-      "other": [
-        "Inspired numerous expeditions",
-        "Classic cryptozoology subject",
-        "Featured in creationist arguments (disputed use)"
-      ]
+      "other": []
     }
   },
-
   "research": {
-    "researchers": [
-      {
-        "name": "Roy Mackal",
-        "affiliation": "University of Chicago",
-        "contribution": "Led multiple scientific expeditions to Lake Télé in 1980s; collected eyewitness accounts",
-        "period": "1980-1988"
-      },
-      {
-        "name": "William Gibbons",
-        "affiliation": "Independent cryptozoologist",
-        "contribution": "Multiple expeditions and investigations in Congo Basin",
-        "period": "1990s-2000s"
-      }
-    ],
+    "researchers": [],
     "organizations": [],
-    "ongoing_studies": "Expeditions occur sporadically, though scientific interest has waned due to lack of evidence. Focus remains primarily within cryptozoology community."
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "mackal-1987",
-      "type": "book",
-      "title": "A Living Dinosaur? In Search of Mokele-Mbembe",
-      "authors": ["Roy P. Mackal"],
-      "publication": "E.J. Brill",
-      "date": "1987",
-      "isbn": "978-9004085435"
-    },
-    {
-      "id": "gibbons-mokele",
-      "type": "book",
-      "title": "Mokele-Mbembe: Mystery Beast of the Congo Basin",
-      "authors": ["William Gibbons"],
-      "publication": "Coachwhip Publications",
-      "date": "2010"
-    },
-    {
-      "id": "tribal-traditions",
-      "type": "cultural",
-      "title": "Likouala region tribal oral traditions",
-      "description": "Local knowledge of river creatures in Congo Basin",
-      "note": "Interpretations vary; consult with local communities"
-    }
-  ]
+  "sources": []
 }
